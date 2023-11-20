@@ -46,7 +46,7 @@ xkb_symbols "pes_winkeys" {
     key <AC11> { [ Arabic_gaf,		quotedbl		] };
     key <TLDE> { [ division,		multiply		] };
 
-    key <BKSL> { [ Arabic_peh,		bar			] };
+    key <BKSL> { [ Arabic_peh,		U200c			] };
     key <AB01> { [ Arabic_zah,		Arabic_tehmarbuta	] };
     key <AB02> { [ Arabic_tah,		Arabic_yeh		] };
     key <AB03> { [ Arabic_zain,		Arabic_jeh		] };
